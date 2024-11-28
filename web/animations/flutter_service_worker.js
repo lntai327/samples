@@ -12,7 +12,7 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "assets/assets/eat_cape_town_sm.jpg": "7d0bc0ee785a2c3cc4064fae0834fadf",
 "assets/assets/eat_new_orleans_sm.jpg": "75ea180c478714d6fde3d89ac35de62a",
 "assets/assets/eat_sydney_sm.jpg": "3804fd7d8268200b04ef598820712ec9",
-"assets/NOTICES": "51c3f704deeb453f866075ab85d3dd1f",
+"assets/NOTICES": "bdaf258bdef94870ccfda648240cb978",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.json": "b1c84506c7771ff360bf77a996e7730f",
 "assets/AssetManifest.bin.json": "e268e4015ef09af49a14143976ccf7df",
@@ -35,7 +35,7 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "42906adb43c8fac5e6348de24f5c28d0",
-"flutter_bootstrap.js": "4427b64cd6ed35fe97ede6fd816a822a"};
+"flutter_bootstrap.js": "b5f00e9d55fdf94ecf37d9a9ede25400"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
