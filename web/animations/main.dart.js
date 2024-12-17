@@ -24899,7 +24899,7 @@ A.al2.prototype={
 $1(a){var s=A.dH().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/83bacfc52569459a4a654727cad2546820cb0d6a/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/cb4b5fff73850b2e42bd4de7cb9a4310a78ac40d/":s)+a},
 $S:97}
 A.WG.prototype={
 cF(){B.c.ac(this.a.a.save())},
