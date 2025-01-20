@@ -933,10 +933,9 @@ if(c==null){o=a.target
 o.toString
 c=o}if(b.gel().e.contains(c)){o=$.FV()
 s=o.ghG().w
-if(s!=null){a.target.toString
-o.ghG().c.toString
+if(s!=null){o.ghG().c.toString
 r=new A.iS(s.c).anT(a.offsetX,a.offsetY,0)
-return new A.h(r.a,r.b)}}if(!J.c(a.target,p)){q=p.getBoundingClientRect()
+return new A.h(r.a,r.b)}}if(c!==p){q=p.getBoundingClientRect()
 return new A.h(a.clientX-q.x,a.clientY-q.y)}return new A.h(a.offsetX,a.offsetY)},
 aK7(a,b){var s,r,q=a.clientX,p=a.clientY
 for(s=b;s.offsetParent!=null;s=r){q-=s.offsetLeft-s.scrollLeft
@@ -25628,7 +25627,7 @@ A.amM.prototype={
 $1(a){var s=A.dN().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/cb4b5fff73850b2e42bd4de7cb9a4310a78ac40d/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/e672b006cb34c921db85b8e2f482ed3144a4574b/":s)+a},
 $S:51}
 A.WX.prototype={
 dz(){B.d.ap(this.a.a.save())},
