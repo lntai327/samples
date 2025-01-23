@@ -31,8 +31,8 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2e
 "/": "c0f1d21eb8107c00ea1b11a4c2ee0172",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter_bootstrap.js": "d0f5d2df82f0c8e4f21b91fedf6bd3dd",
-"main.dart.js": "4171438729aa1e404a2806bb373dd16b"};
+"flutter_bootstrap.js": "d57940af36bb851e881991406cdae901",
+"main.dart.js": "45936a1adb194689ef99a93bb8f44816"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
