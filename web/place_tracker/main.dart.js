@@ -82597,7 +82597,7 @@ else s=p
 if(s){h.bT(g.pop())
 r="&"+B.b.hT(g)}else{r=B.jG.h(0,n)
 h.bT(g.pop())
-r=A.k(r)+B.b.hT(A.auP(g,m,i))}}else{j.G(new A.a2(i,i,"expected-named-entity"))
+r=A.k(r)+B.b.hT(A.auP(g,m,i))}}else{if(!b)j.G(new A.a2(i,i,"expected-named-entity"))
 h.bT(g.pop())
 r="&"+B.b.hT(g)}}}if(b)j.ay.a+=r
 else{if(A.cD(r))k=new A.q8(i,r)
