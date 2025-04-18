@@ -25001,7 +25001,7 @@ A.alv.prototype={
 $1(a){var s=A.e_().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/18b71d647a292a980abb405ac7d16fe1f0b20434/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/cf56914b326edb0ccb123ffdc60f00060bd513fa/":s)+a},
 $S:77}
 A.X0.prototype={
 cG(){B.c.ag(this.a.a.save())},
