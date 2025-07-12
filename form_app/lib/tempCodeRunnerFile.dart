@@ -1,0 +1,1 @@
+import 'package:window_size/window_size.dart';

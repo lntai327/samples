@@ -9,3 +9,5 @@ linter:
     - prefer_final_in_for_each
     - prefer_final_locals
     - prefer_relative_imports
+    - discarded_futures
+    - unawaited_futures
