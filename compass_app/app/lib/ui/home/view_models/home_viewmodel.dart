@@ -39,13 +39,15 @@ class HomeViewModel extends ChangeNotifier {
 
   Future<Result> _load() async {
     try {
-      final result = await _bookingRepository.getBookingsList();
+      final result = await _bookingRepository.getBookingsList(); //Future<Result<List<BookingSummary>>>
       switch (result) {
         case Ok<List<BookingSummary>>():
           _bookings = result.value;
           _log.fine('Loaded bookings');
+          print("Loaded bookings");
         case Error<List<BookingSummary>>():
           _log.warning('Failed to load bookings', result.error);
+          print("Failed to load bookings");
           return result;
       }
 
